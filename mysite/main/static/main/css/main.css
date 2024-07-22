@@ -1,3 +1,45 @@
-body{
-    background-color: dodgerblue;
+aside {
+    background-color: #f8f9fa;
+    padding: 15px;
+    border-radius: 10px;
+    height: 100vh;
 }
+
+aside img {
+    display: block;
+    margin: 0 auto 15px;
+    width: 100%;
+    max-width: 150px;
+}
+
+aside span {
+    display: block;
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+aside ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+
+aside ul li {
+    margin-bottom: 10px;
+}
+
+aside ul li a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+aside ul li a:hover {
+    text-decoration: underline;
+}
+
+main {
+    padding: 20px;
+}
+
