@@ -1,32 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b9dab74-0c50-474f-b493-7d55505b53a3" name="Changes" comment="" />
+    <list default="true" id="8b9dab74-0c50-474f-b493-7d55505b53a3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/mysite/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/news/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/news/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/news/migrations/0002_alter_news_post_options_alter_news_post_user_name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/news/templates/news/add_new_post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/main/static/main/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/main/static/main/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/main/templates/main/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/main/templates/main/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/main/templates/main/layoute.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/main/templates/main/layoute.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/main/templates/main/nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/main/templates/main/nav.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/main/templates/main/new.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/main/templates/main/new.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/main/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/main/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/main/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/main/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/mysite/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/mysite/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/news/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/news/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/news/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/news/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/news/templates/news/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/news/templates/news/news.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/news/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/news/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/news/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/news/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;newLisa2024&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/newLisa2024/webDjangoProject.git&quot;,
+    &quot;accountId&quot;: &quot;9555da2d-29d0-4d88-adeb-67cb1f59b7bd&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2jYaRLhB9XPsSkAwFWOV3aZZrmA" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Лена\PycharmProjects\webDjangoProject\mysite\news" />
+      <recent name="C:\Users\Лена\PycharmProjects\webDjangoProject\mysite\main\static\main\img" />
+      <recent name="C:\Users\Лена\PycharmProjects\webDjangoProject\mysite\main\static\main\css" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="webDjangoProject" />
@@ -68,12 +131,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721566454395</updated>
-      <workItem from="1721566455808" duration="6000" />
+      <workItem from="1721566455808" duration="3878000" />
+      <workItem from="1721570562031" duration="26308000" />
+      <workItem from="1721665204946" duration="1437000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
